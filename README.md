@@ -21,6 +21,14 @@
 ### [SingleChildScrollView](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 ### [CustomScrollView](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)
  
+## :zap: Widgets Comunes:
+### [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
+### [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+### [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
+### [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
+### [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
 
+ 
+ 
 
 
