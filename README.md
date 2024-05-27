@@ -31,5 +31,13 @@
  
  # Flutter CLI
 
+ # Flutter Atajos Visual Code 
+ ### Para cambiar de widget puedes pulsar CTRL+. y elegir el widget que deseas colocar
+ ### CTRL+P para buscar archivos por nombre
+ ### stless: Insertar unStatelessWidget
+ ### stful: Insertar unStatefulWidget
+ ### stanim: Inserte un StatefulWidgetcon unAnimationController
+ ### agregar if/else  =  ife
  
+
 
